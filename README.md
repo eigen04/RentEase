@@ -60,7 +60,7 @@ Database Setup
 
 Create a new MySQL database.
 
-Run the provided SQL script (database.sql) to set up the required tables.
+Run the provided database.sql script to set up the required tables.
 
 Update the DBConnect.java file with your MySQL credentials.
 
@@ -90,9 +90,11 @@ Future Enhancements
 
 Screenshots
 
-(Add relevant images of your project UI here)
+![Screenshot 2025-03-01 163818](https://github.com/user-attachments/assets/fabda977-9cc5-47ae-be7b-918650655639)
+![Screenshot 2025-03-01 163832](https://github.com/user-attachments/assets/1ff5668c-cedb-4417-9e91-ec36efa5ecc3)
+![Screenshot 2025-03-01 163851](https://github.com/user-attachments/assets/fdad6979-4949-475b-bbc8-6db24fad0d8c)
+
 
 License
 
 This project is open-source and can be modified as needed.
-
