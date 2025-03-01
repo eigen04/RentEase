@@ -1,7 +1,5 @@
 🚀 RentEase – Your Ultimate Digital Content Hub
 
-
-
 🎬 Project Overview
 
 RentEase is a cutting-edge web platform designed to offer seamless buying and renting of digital content, including movies, TV shows, sports events, and live broadcasts. With an intuitive user interface and a secure transaction system, users can enjoy their favorite content hassle-free!
@@ -13,17 +11,13 @@ RentEase is a cutting-edge web platform designed to offer seamless buying and re
 🎨 Frontend
 
 ✅ HTML, CSS, JavaScript
-
 ✅ Bootstrap – Responsive & mobile-friendly design
-
 ✅ JSP (JavaServer Pages) – Dynamic content rendering
-
 ✅ FontAwesome – Elegant icons & UI enhancements
 
 ⚙️ Backend
 
 ✅ Java Servlets – Efficient request handling
-
 ✅ JDBC (Java Database Connectivity) – Secure database interaction
 
 🖥️ Server
@@ -37,12 +31,18 @@ RentEase is a cutting-edge web platform designed to offer seamless buying and re
 🛠️ Development Tools
 
 ✅ Eclipse – IDE for seamless development
-
 ✅ MySQL Workbench – Database design & management
 
 ✨ Key Features
 
-✅ 🔐 User Authentication – Secure login & registration with encrypted passwords✅ 🎥 Content Purchase & Rental – Users can buy or rent content with ease✅ 💳 Transaction Management – Every transaction is securely recorded in the database✅ 📁 Dynamic Content Handling – Content is categorized & managed dynamically✅ 📱 Responsive UI – Fully optimized for all devices✅ 🔄 Session Management – Ensures a safe & persistent user experience✅ 🎛️ Admin Panel (Optional) – Future scalability for content & transaction management
+✅ 🔐 User Authentication – Secure login & registration with encrypted passwords
+✅ 🎥 Content Purchase & Rental – Users can buy or rent content with ease
+✅ 💳 Transaction Management – Every transaction is securely recorded in the database
+✅ 📁 Dynamic Content Handling – Content is categorized & managed dynamically
+✅ 📱 Responsive UI – Fully optimized for all devices
+✅ 🔄 Session Management – Ensures a safe & persistent user experience
+✅ 🎛️ Admin Panel – Manage content, users, and transactions effectively
+✅ 💰 Payment Gateway Integration – Razorpay implemented for secure transactions
 
 🚀 Installation & Setup
 
@@ -92,8 +92,8 @@ Session-based authentication ensures security at every step.
 
 🔮 Future Enhancements
 
-🔹 💰 Payment Gateway Integration – Support for PayPal, Razorpay, Stripe🔹 ⭐ User Reviews & Ratings – Engage with the community🔹 🎯 Recommendation System – AI-driven personalized suggestions🔹 📊 Admin Dashboard – Manage content, users, and transactions effectively
-
+🔹 ⭐ User Reviews & Ratings – Engage with the community
+🔹 🎯 Recommendation System – AI-driven personalized suggestions
 🖼️ Screenshots
 ![Screenshot 2025-03-01 163818](https://github.com/user-attachments/assets/fabda977-9cc5-47ae-be7b-918650655639)
 ![Screenshot 2025-03-01 163832](https://github.com/user-attachments/assets/1ff5668c-cedb-4417-9e91-ec36efa5ecc3)
@@ -107,5 +107,3 @@ Session-based authentication ensures security at every step.
 💡 Contributions are welcome! Feel free to submit a pull request or raise an issue.
 
 💻 Developed with ❤️ by Anant Agarwal
-
-This project is open-source and can be modified as needed.
